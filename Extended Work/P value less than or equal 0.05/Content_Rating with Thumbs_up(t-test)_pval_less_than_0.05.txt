@@ -1,0 +1,5 @@
+'Everyone 10+' VS 'Everyone':	 statistic= 5.465873845083696;	 p_value= 4.611810038795295e-08;
+'Everyone 10+' VS 'Teen':	 statistic= 8.419698587920093;	 p_value= 3.9136356455320485e-17;
+'Everyone' VS 'Mature 17+':	 statistic= -3.2445556269581863;	 p_value= 0.0011765346743673466;
+'Everyone' VS 'Teen':	 statistic= 7.322744943896905;	 p_value= 2.4379968669705375e-13;
+'Mature 17+' VS 'Teen':	 statistic= 6.2842253938576125;	 p_value= 3.3338959738163897e-10;

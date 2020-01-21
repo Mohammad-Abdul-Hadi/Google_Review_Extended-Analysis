@@ -1,0 +1,7 @@
+adult vs everyone:	 statistic= 7087649.5;	 p_value= 0.0021627697427941996;
+adult vs mature:	 statistic= 361778.5;	 p_value= 0.00017848230873871685;
+everyone 10+ vs everyone:	 statistic= 890241535.0;	 p_value= 5.337735500655549e-174;
+everyone 10+ vs mature:	 statistic= 45600168.0;	 p_value= 9.333326320610477e-155;
+everyone vs mature:	 statistic= 916124182.5;	 p_value= 4.191522285646682e-16;
+everyone vs teen:	 statistic= 1991527233.0;	 p_value= 0.0;
+mature vs teen:	 statistic= 102094575.5;	 p_value= 1.0281059902689369e-226;

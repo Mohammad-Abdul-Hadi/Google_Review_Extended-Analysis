@@ -1,0 +1,10 @@
+'Adults only 18+' VS 'Everyone 10+':	 statistic= 387864.5;	 p_value= 0.00013785431534092408;
+'Adults only 18+' VS 'Everyone':	 statistic= 6500630.0;	 p_value= 3.303823550442427e-05;
+'Adults only 18+' VS 'Mature 17+':	 statistic= 370307.0;	 p_value= 0.0009233092527764126;
+'Adults only 18+' VS 'Teen':	 statistic= 750627.0;	 p_value= 2.857496396532556e-09;
+'Everyone 10+' VS 'Everyone':	 statistic= 1022656301.5;	 p_value= 0.004513498553100406;
+'Everyone 10+' VS 'Mature 17+':	 statistic= 54405025.5;	 p_value= 0.0006324715745647474;
+'Everyone 10+' VS 'Teen':	 statistic= 122849861.0;	 p_value= 7.283154757431452e-56;
+'Everyone' VS 'Mature 17+':	 statistic= 919652848.5;	 p_value= 6.703188873281453e-13;
+'Everyone' VS 'Teen':	 statistic= 2136029410.5;	 p_value= 5.016371292342325e-114;
+'Mature 17+' VS 'Teen':	 statistic= 110146736.5;	 p_value= 7.9742216447157255e-84;
